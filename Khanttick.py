@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+#!/usr/bin/python2 Khantrick.py
 #coding=utf-8
 #The Credit For This Code Goes To lovehacker
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
